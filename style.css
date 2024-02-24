@@ -96,29 +96,3 @@ ul li a:hover{
 .bot img:hover{
     cursor: pointer; 
 }
-/* .foot {
-    display: flex;
-    height: 100px;
-    background-color: yellow;
-    color: black;
-    justify-content: center;
-    align-items: center;
-}
-.bot {
-    height: 9vh;
-    width: 9vh;
-    background: #f8999d;
-    position: fixed;
-    bottom: 19px;
-    right: 24px;
-    border-radius: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.bot img{
-    width: 29px; 
-}
-.bot img:hover{
-    cursor: pointer; 
-} */
