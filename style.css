@@ -47,6 +47,9 @@ ul li a {
 ul li a:hover{
     color: white;
     cursor: pointer;
+    background-color: lightcoral;
+    border-radius: 5px;
+    padding: 5px 0;
 }
 
 .boxes2 .box1 {
@@ -93,6 +96,9 @@ ul li a:hover{
 .bot img{
     width: 32px; 
 }
-.bot img:hover{
-    cursor: pointer; 
+.bot:hover{
+    width: 62px; 
+    height: 62px; 
+    border-radius: 60px;
+    cursor: pointer;
 }
